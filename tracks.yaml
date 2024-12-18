@@ -227,7 +227,7 @@ tracks:
     - git-bloom-generate -y rosrelease :{ros_distro} --source upstream -i :{release_inc}
     - git-bloom-generate -y rosdebian --prefix release/:{ros_distro} :{ros_distro}
       -i :{release_inc} --os-name debian
-    devel_branch: rolling
+    devel_branch: jazzy
     last_version: 2.16.0
     name: rmw_implementation
     patches: jazzy-riscv64
