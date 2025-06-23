@@ -1,3 +1,29 @@
+## rmw_implementation (jazzy) - 2.15.5-1
+
+The packages in the `rmw_implementation` repository were released into the `jazzy` distro by running `/root/venv/bin/bloom-release -r jazzy rmw_implementation --override-release-repository-push-url git@github.com:revyos-ros/rmw_implementation-release.git` on `Mon, 23 Jun 2025 05:31:27 -0000`
+
+The `rmw_implementation` package was released.
+
+These packages were explicitly ignored:
+- `test_rmw_implementation`
+
+Version of package(s) in repository `rmw_implementation`:
+
+- upstream repository: https://github.com/ros2/rmw_implementation.git
+- release repository: https://github.com/revyos-ros/rmw_implementation-release.git
+- rosdistro version: `2.15.5-1`
+- old version: `2.15.4-1`
+- new version: `2.15.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## rmw_implementation (jazzy) - 2.15.4-1
 
 The packages in the `rmw_implementation` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy rmw_implementation --override-release-repository-push-url git@github.com:revyos-ros/rmw_implementation-release.git` on `Thu, 19 Dec 2024 11:22:31 -0000`
